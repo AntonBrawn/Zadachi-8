@@ -1,0 +1,15 @@
+C:\program\Ychebaa\HomeWork 8\HM3\bin\Debug\net6.0\HM3.exe
+C:\program\Ychebaa\HomeWork 8\HM3\bin\Debug\net6.0\HM3.deps.json
+C:\program\Ychebaa\HomeWork 8\HM3\bin\Debug\net6.0\HM3.runtimeconfig.json
+C:\program\Ychebaa\HomeWork 8\HM3\bin\Debug\net6.0\HM3.dll
+C:\program\Ychebaa\HomeWork 8\HM3\bin\Debug\net6.0\HM3.pdb
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.csproj.AssemblyReference.cache
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.GeneratedMSBuildEditorConfig.editorconfig
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.AssemblyInfoInputs.cache
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.AssemblyInfo.cs
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.csproj.CoreCompileInputs.cache
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.dll
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\refint\HM3.dll
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.pdb
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\HM3.genruntimeconfig.cache
+C:\program\Ychebaa\HomeWork 8\HM3\obj\Debug\net6.0\ref\HM3.dll
